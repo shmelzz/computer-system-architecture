@@ -1,0 +1,402 @@
+Filled container:
+Container contains 66 elements.
+1: It is TRIANGLE
+Angles' coordinates are: a.X = 12 a.Y = 60, b.X = 39, b.Y = 100 c.X = 90 c.Y = 74, color = ORANGE, perimeter = 184.751
+
+2: It is TRIANGLE
+Angles' coordinates are: a.X = 80 a.Y = 58, b.X = 25, b.Y = 93 c.X = 60 c.Y = 46, color = ORANGE, perimeter = 147.116
+
+3: It is CIRCLE
+Center coordinates are: X = 62 Y = 2, radius = 7, color = PURPLE, perimeter = 43.9823
+
+4: It is CIRCLE
+Center coordinates are: X = 46 Y = 39, radius = 49, color = ORANGE, perimeter = 307.876
+
+5: It is TRIANGLE
+Angles' coordinates are: a.X = 1 a.Y = 69, b.X = 38, b.Y = 49 c.X = 22 c.Y = 2, color = DARK_BLUE, perimeter = 161.922
+
+6: It is RECTANGLE
+Angles' coordinates are: a.X = 60 a.Y = 1, b.X = 50, b.Y = 85, color = RED, perimeter = 188
+
+7: It is RECTANGLE
+Angles' coordinates are: a.X = 16 a.Y = 53, b.X = 83, b.Y = 8, color = RED, perimeter = 224
+
+8: It is TRIANGLE
+Angles' coordinates are: a.X = 26 a.Y = 33, b.X = 86, b.Y = 80 c.X = 52 c.Y = 31, color = PURPLE, perimeter = 161.934
+
+9: It is TRIANGLE
+Angles' coordinates are: a.X = 18 a.Y = 17, b.X = 65, b.Y = 18 c.X = 38 c.Y = 2, color = PURPLE, perimeter = 103.395
+
+10: It is CIRCLE
+Center coordinates are: X = 59 Y = 55, radius = 31, color = YELLOW, perimeter = 194.779
+
+11: It is RECTANGLE
+Angles' coordinates are: a.X = 80 a.Y = 6, b.X = 51, b.Y = 38, color = ORANGE, perimeter = 122
+
+12: It is TRIANGLE
+Angles' coordinates are: a.X = 29 a.Y = 68, b.X = 52, b.Y = 56 c.X = 93 c.Y = 85, color = ORANGE, perimeter = 142.381
+
+13: It is CIRCLE
+Center coordinates are: X = 24 Y = 88, radius = 23, color = GREEN, perimeter = 144.513
+
+14: It is TRIANGLE
+Angles' coordinates are: a.X = 13 a.Y = 3, b.X = 10, b.Y = 50 c.X = 56 c.Y = 80, color = RED, perimeter = 190.207
+
+15: It is TRIANGLE
+Angles' coordinates are: a.X = 10 a.Y = 29, b.X = 18, b.Y = 41 c.X = 34 c.Y = 20, color = RED, perimeter = 66.455
+
+16: It is RECTANGLE
+Angles' coordinates are: a.X = 55 a.Y = 75, b.X = 3, b.Y = 83, color = GREEN, perimeter = 120
+
+17: It is CIRCLE
+Center coordinates are: X = 90 Y = 86, radius = 38, color = PURPLE, perimeter = 238.761
+
+18: It is RECTANGLE
+Angles' coordinates are: a.X = 25 a.Y = 4, b.X = 5, b.Y = 15, color = DARK_BLUE, perimeter = 62
+
+19: It is CIRCLE
+Center coordinates are: X = 69 Y = 58, radius = 19, color = BLUE, perimeter = 119.381
+
+20: It is CIRCLE
+Center coordinates are: X = 79 Y = 87, radius = 99, color = DARK_BLUE, perimeter = 622.035
+
+21: It is TRIANGLE
+Angles' coordinates are: a.X = 93 a.Y = 75, b.X = 21, b.Y = 47 c.X = 2 c.Y = 23, color = DARK_BLUE, perimeter = 212.673
+
+22: It is TRIANGLE
+Angles' coordinates are: a.X = 29 a.Y = 70, b.X = 33, b.Y = 66 c.X = 51 c.Y = 93, color = PURPLE, perimeter = 69.9345
+
+23: It is CIRCLE
+Center coordinates are: X = 54 Y = 50, radius = 9, color = BLUE, perimeter = 56.5487
+
+24: It is CIRCLE
+Center coordinates are: X = 78 Y = 59, radius = 89, color = GREEN, perimeter = 559.203
+
+25: It is RECTANGLE
+Angles' coordinates are: a.X = 67 a.Y = 40, b.X = 45, b.Y = 26, color = BLUE, perimeter = 72
+
+26: It is CIRCLE
+Center coordinates are: X = 18 Y = 21, radius = 8, color = ORANGE, perimeter = 50.2655
+
+27: It is RECTANGLE
+Angles' coordinates are: a.X = 83 a.Y = 96, b.X = 17, b.Y = 11, color = GREEN, perimeter = 302
+
+28: It is RECTANGLE
+Angles' coordinates are: a.X = 28 a.Y = 67, b.X = 93, b.Y = 22, color = PURPLE, perimeter = 220
+
+29: It is RECTANGLE
+Angles' coordinates are: a.X = 31 a.Y = 21, b.X = 12, b.Y = 8, color = DARK_BLUE, perimeter = 64
+
+30: It is RECTANGLE
+Angles' coordinates are: a.X = 61 a.Y = 26, b.X = 19, b.Y = 100, color = DARK_BLUE, perimeter = 232
+
+31: It is RECTANGLE
+Angles' coordinates are: a.X = 94 a.Y = 9, b.X = 65, b.Y = 14, color = RED, perimeter = 68
+
+32: It is TRIANGLE
+Angles' coordinates are: a.X = 3 a.Y = 27, b.X = 4, b.Y = 13 c.X = 43 c.Y = 4, color = BLUE, perimeter = 100.202
+
+33: It is CIRCLE
+Center coordinates are: X = 9 Y = 96, radius = 14, color = YELLOW, perimeter = 87.9646
+
+34: It is RECTANGLE
+Angles' coordinates are: a.X = 96 a.Y = 53, b.X = 53, b.Y = 3, color = DARK_BLUE, perimeter = 186
+
+35: It is TRIANGLE
+Angles' coordinates are: a.X = 61 a.Y = 76, b.X = 14, b.Y = 34 c.X = 23 c.Y = 59, color = RED, perimeter = 131.232
+
+36: It is CIRCLE
+Center coordinates are: X = 88 Y = 24, radius = 63, color = RED, perimeter = 395.841
+
+37: It is CIRCLE
+Center coordinates are: X = 65 Y = 46, radius = 66, color = RED, perimeter = 414.69
+
+38: It is CIRCLE
+Center coordinates are: X = 21 Y = 20, radius = 49, color = DARK_BLUE, perimeter = 307.876
+
+39: It is RECTANGLE
+Angles' coordinates are: a.X = 81 a.Y = 58, b.X = 80, b.Y = 85, color = PURPLE, perimeter = 56
+
+40: It is CIRCLE
+Center coordinates are: X = 68 Y = 19, radius = 48, color = ORANGE, perimeter = 301.593
+
+41: It is CIRCLE
+Center coordinates are: X = 13 Y = 14, radius = 20, color = YELLOW, perimeter = 125.664
+
+42: It is CIRCLE
+Center coordinates are: X = 7 Y = 47, radius = 70, color = RED, perimeter = 439.823
+
+43: It is RECTANGLE
+Angles' coordinates are: a.X = 86 a.Y = 23, b.X = 75, b.Y = 14, color = GREEN, perimeter = 40
+
+44: It is TRIANGLE
+Angles' coordinates are: a.X = 62 a.Y = 63, b.X = 70, b.Y = 94 c.X = 72 c.Y = 49, color = PURPLE, perimeter = 94.2647
+
+45: It is RECTANGLE
+Angles' coordinates are: a.X = 86 a.Y = 35, b.X = 46, b.Y = 4, color = YELLOW, perimeter = 142
+
+46: It is TRIANGLE
+Angles' coordinates are: a.X = 95 a.Y = 91, b.X = 20, b.Y = 17 c.X = 98 c.Y = 79, color = DARK_BLUE, perimeter = 217.37
+
+47: It is RECTANGLE
+Angles' coordinates are: a.X = 67 a.Y = 56, b.X = 72, b.Y = 4, color = ORANGE, perimeter = 114
+
+48: It is TRIANGLE
+Angles' coordinates are: a.X = 43 a.Y = 92, b.X = 53, b.Y = 5 c.X = 7 c.Y = 22, color = RED, perimeter = 215.328
+
+49: It is TRIANGLE
+Angles' coordinates are: a.X = 23 a.Y = 76, b.X = 63, b.Y = 57 c.X = 74 c.Y = 18, color = BLUE, perimeter = 162.038
+
+50: It is RECTANGLE
+Angles' coordinates are: a.X = 51 a.Y = 70, b.X = 84, b.Y = 41, color = DARK_BLUE, perimeter = 124
+
+51: It is CIRCLE
+Center coordinates are: X = 38 Y = 20, radius = 15, color = GREEN, perimeter = 94.2478
+
+52: It is RECTANGLE
+Angles' coordinates are: a.X = 38 a.Y = 59, b.X = 56, b.Y = 35, color = BLUE, perimeter = 84
+
+53: It is CIRCLE
+Center coordinates are: X = 79 Y = 31, radius = 54, color = ORANGE, perimeter = 339.292
+
+54: It is TRIANGLE
+Angles' coordinates are: a.X = 14 a.Y = 27, b.X = 31, b.Y = 29 c.X = 83 c.Y = 56, color = RED, perimeter = 150.556
+
+55: It is RECTANGLE
+Angles' coordinates are: a.X = 72 a.Y = 6, b.X = 68, b.Y = 8, color = RED, perimeter = 12
+
+56: It is RECTANGLE
+Angles' coordinates are: a.X = 60 a.Y = 87, b.X = 28, b.Y = 26, color = DARK_BLUE, perimeter = 186
+
+57: It is RECTANGLE
+Angles' coordinates are: a.X = 16 a.Y = 52, b.X = 61, b.Y = 50, color = BLUE, perimeter = 94
+
+58: It is TRIANGLE
+Angles' coordinates are: a.X = 61 a.Y = 16, b.X = 64, b.Y = 65 c.X = 19 c.Y = 78, color = DARK_BLUE, perimeter = 170.818
+
+59: It is RECTANGLE
+Angles' coordinates are: a.X = 1 a.Y = 6, b.X = 73, b.Y = 57, color = DARK_BLUE, perimeter = 246
+
+60: It is RECTANGLE
+Angles' coordinates are: a.X = 14 a.Y = 70, b.X = 3, b.Y = 12, color = RED, perimeter = 138
+
+61: It is CIRCLE
+Center coordinates are: X = 50 Y = 57, radius = 92, color = GREEN, perimeter = 578.053
+
+62: It is RECTANGLE
+Angles' coordinates are: a.X = 7 a.Y = 47, b.X = 74, b.Y = 56, color = ORANGE, perimeter = 152
+
+63: It is CIRCLE
+Center coordinates are: X = 88 Y = 89, radius = 3, color = ORANGE, perimeter = 18.8496
+
+64: It is TRIANGLE
+Angles' coordinates are: a.X = 80 a.Y = 95, b.X = 73, b.Y = 37 c.X = 19 c.Y = 29, color = GREEN, perimeter = 202.882
+
+65: It is CIRCLE
+Center coordinates are: X = 14 Y = 95, radius = 61, color = PURPLE, perimeter = 383.274
+
+66: It is CIRCLE
+Center coordinates are: X = 91 Y = 82, radius = 7, color = RED, perimeter = 43.9823
+
+
+
+Sorted container: 
+Container contains 66 elements.
+1: It is RECTANGLE
+Angles' coordinates are: a.X = 72 a.Y = 6, b.X = 68, b.Y = 8, color = RED, perimeter = 12
+
+2: It is CIRCLE
+Center coordinates are: X = 88 Y = 89, radius = 3, color = ORANGE, perimeter = 18.8496
+
+3: It is RECTANGLE
+Angles' coordinates are: a.X = 86 a.Y = 23, b.X = 75, b.Y = 14, color = GREEN, perimeter = 40
+
+4: It is CIRCLE
+Center coordinates are: X = 91 Y = 82, radius = 7, color = RED, perimeter = 43.9823
+
+5: It is CIRCLE
+Center coordinates are: X = 62 Y = 2, radius = 7, color = PURPLE, perimeter = 43.9823
+
+6: It is CIRCLE
+Center coordinates are: X = 18 Y = 21, radius = 8, color = ORANGE, perimeter = 50.2655
+
+7: It is RECTANGLE
+Angles' coordinates are: a.X = 81 a.Y = 58, b.X = 80, b.Y = 85, color = PURPLE, perimeter = 56
+
+8: It is CIRCLE
+Center coordinates are: X = 54 Y = 50, radius = 9, color = BLUE, perimeter = 56.5487
+
+9: It is RECTANGLE
+Angles' coordinates are: a.X = 25 a.Y = 4, b.X = 5, b.Y = 15, color = DARK_BLUE, perimeter = 62
+
+10: It is RECTANGLE
+Angles' coordinates are: a.X = 31 a.Y = 21, b.X = 12, b.Y = 8, color = DARK_BLUE, perimeter = 64
+
+11: It is TRIANGLE
+Angles' coordinates are: a.X = 10 a.Y = 29, b.X = 18, b.Y = 41 c.X = 34 c.Y = 20, color = RED, perimeter = 66.455
+
+12: It is RECTANGLE
+Angles' coordinates are: a.X = 94 a.Y = 9, b.X = 65, b.Y = 14, color = RED, perimeter = 68
+
+13: It is TRIANGLE
+Angles' coordinates are: a.X = 29 a.Y = 70, b.X = 33, b.Y = 66 c.X = 51 c.Y = 93, color = PURPLE, perimeter = 69.9345
+
+14: It is RECTANGLE
+Angles' coordinates are: a.X = 67 a.Y = 40, b.X = 45, b.Y = 26, color = BLUE, perimeter = 72
+
+15: It is RECTANGLE
+Angles' coordinates are: a.X = 38 a.Y = 59, b.X = 56, b.Y = 35, color = BLUE, perimeter = 84
+
+16: It is CIRCLE
+Center coordinates are: X = 9 Y = 96, radius = 14, color = YELLOW, perimeter = 87.9646
+
+17: It is RECTANGLE
+Angles' coordinates are: a.X = 16 a.Y = 52, b.X = 61, b.Y = 50, color = BLUE, perimeter = 94
+
+18: It is CIRCLE
+Center coordinates are: X = 38 Y = 20, radius = 15, color = GREEN, perimeter = 94.2478
+
+19: It is TRIANGLE
+Angles' coordinates are: a.X = 62 a.Y = 63, b.X = 70, b.Y = 94 c.X = 72 c.Y = 49, color = PURPLE, perimeter = 94.2647
+
+20: It is TRIANGLE
+Angles' coordinates are: a.X = 3 a.Y = 27, b.X = 4, b.Y = 13 c.X = 43 c.Y = 4, color = BLUE, perimeter = 100.202
+
+21: It is TRIANGLE
+Angles' coordinates are: a.X = 18 a.Y = 17, b.X = 65, b.Y = 18 c.X = 38 c.Y = 2, color = PURPLE, perimeter = 103.395
+
+22: It is RECTANGLE
+Angles' coordinates are: a.X = 67 a.Y = 56, b.X = 72, b.Y = 4, color = ORANGE, perimeter = 114
+
+23: It is CIRCLE
+Center coordinates are: X = 69 Y = 58, radius = 19, color = BLUE, perimeter = 119.381
+
+24: It is RECTANGLE
+Angles' coordinates are: a.X = 55 a.Y = 75, b.X = 3, b.Y = 83, color = GREEN, perimeter = 120
+
+25: It is RECTANGLE
+Angles' coordinates are: a.X = 80 a.Y = 6, b.X = 51, b.Y = 38, color = ORANGE, perimeter = 122
+
+26: It is RECTANGLE
+Angles' coordinates are: a.X = 51 a.Y = 70, b.X = 84, b.Y = 41, color = DARK_BLUE, perimeter = 124
+
+27: It is CIRCLE
+Center coordinates are: X = 13 Y = 14, radius = 20, color = YELLOW, perimeter = 125.664
+
+28: It is TRIANGLE
+Angles' coordinates are: a.X = 61 a.Y = 76, b.X = 14, b.Y = 34 c.X = 23 c.Y = 59, color = RED, perimeter = 131.232
+
+29: It is RECTANGLE
+Angles' coordinates are: a.X = 14 a.Y = 70, b.X = 3, b.Y = 12, color = RED, perimeter = 138
+
+30: It is RECTANGLE
+Angles' coordinates are: a.X = 86 a.Y = 35, b.X = 46, b.Y = 4, color = YELLOW, perimeter = 142
+
+31: It is TRIANGLE
+Angles' coordinates are: a.X = 29 a.Y = 68, b.X = 52, b.Y = 56 c.X = 93 c.Y = 85, color = ORANGE, perimeter = 142.381
+
+32: It is CIRCLE
+Center coordinates are: X = 24 Y = 88, radius = 23, color = GREEN, perimeter = 144.513
+
+33: It is TRIANGLE
+Angles' coordinates are: a.X = 80 a.Y = 58, b.X = 25, b.Y = 93 c.X = 60 c.Y = 46, color = ORANGE, perimeter = 147.116
+
+34: It is TRIANGLE
+Angles' coordinates are: a.X = 14 a.Y = 27, b.X = 31, b.Y = 29 c.X = 83 c.Y = 56, color = RED, perimeter = 150.556
+
+35: It is RECTANGLE
+Angles' coordinates are: a.X = 7 a.Y = 47, b.X = 74, b.Y = 56, color = ORANGE, perimeter = 152
+
+36: It is TRIANGLE
+Angles' coordinates are: a.X = 1 a.Y = 69, b.X = 38, b.Y = 49 c.X = 22 c.Y = 2, color = DARK_BLUE, perimeter = 161.922
+
+37: It is TRIANGLE
+Angles' coordinates are: a.X = 26 a.Y = 33, b.X = 86, b.Y = 80 c.X = 52 c.Y = 31, color = PURPLE, perimeter = 161.934
+
+38: It is TRIANGLE
+Angles' coordinates are: a.X = 23 a.Y = 76, b.X = 63, b.Y = 57 c.X = 74 c.Y = 18, color = BLUE, perimeter = 162.038
+
+39: It is TRIANGLE
+Angles' coordinates are: a.X = 61 a.Y = 16, b.X = 64, b.Y = 65 c.X = 19 c.Y = 78, color = DARK_BLUE, perimeter = 170.818
+
+40: It is TRIANGLE
+Angles' coordinates are: a.X = 12 a.Y = 60, b.X = 39, b.Y = 100 c.X = 90 c.Y = 74, color = ORANGE, perimeter = 184.751
+
+41: It is RECTANGLE
+Angles' coordinates are: a.X = 96 a.Y = 53, b.X = 53, b.Y = 3, color = DARK_BLUE, perimeter = 186
+
+42: It is RECTANGLE
+Angles' coordinates are: a.X = 60 a.Y = 87, b.X = 28, b.Y = 26, color = DARK_BLUE, perimeter = 186
+
+43: It is RECTANGLE
+Angles' coordinates are: a.X = 60 a.Y = 1, b.X = 50, b.Y = 85, color = RED, perimeter = 188
+
+44: It is TRIANGLE
+Angles' coordinates are: a.X = 13 a.Y = 3, b.X = 10, b.Y = 50 c.X = 56 c.Y = 80, color = RED, perimeter = 190.207
+
+45: It is CIRCLE
+Center coordinates are: X = 59 Y = 55, radius = 31, color = YELLOW, perimeter = 194.779
+
+46: It is TRIANGLE
+Angles' coordinates are: a.X = 80 a.Y = 95, b.X = 73, b.Y = 37 c.X = 19 c.Y = 29, color = GREEN, perimeter = 202.882
+
+47: It is TRIANGLE
+Angles' coordinates are: a.X = 93 a.Y = 75, b.X = 21, b.Y = 47 c.X = 2 c.Y = 23, color = DARK_BLUE, perimeter = 212.673
+
+48: It is TRIANGLE
+Angles' coordinates are: a.X = 43 a.Y = 92, b.X = 53, b.Y = 5 c.X = 7 c.Y = 22, color = RED, perimeter = 215.328
+
+49: It is TRIANGLE
+Angles' coordinates are: a.X = 95 a.Y = 91, b.X = 20, b.Y = 17 c.X = 98 c.Y = 79, color = DARK_BLUE, perimeter = 217.37
+
+50: It is RECTANGLE
+Angles' coordinates are: a.X = 28 a.Y = 67, b.X = 93, b.Y = 22, color = PURPLE, perimeter = 220
+
+51: It is RECTANGLE
+Angles' coordinates are: a.X = 16 a.Y = 53, b.X = 83, b.Y = 8, color = RED, perimeter = 224
+
+52: It is RECTANGLE
+Angles' coordinates are: a.X = 61 a.Y = 26, b.X = 19, b.Y = 100, color = DARK_BLUE, perimeter = 232
+
+53: It is CIRCLE
+Center coordinates are: X = 90 Y = 86, radius = 38, color = PURPLE, perimeter = 238.761
+
+54: It is RECTANGLE
+Angles' coordinates are: a.X = 1 a.Y = 6, b.X = 73, b.Y = 57, color = DARK_BLUE, perimeter = 246
+
+55: It is CIRCLE
+Center coordinates are: X = 68 Y = 19, radius = 48, color = ORANGE, perimeter = 301.593
+
+56: It is RECTANGLE
+Angles' coordinates are: a.X = 83 a.Y = 96, b.X = 17, b.Y = 11, color = GREEN, perimeter = 302
+
+57: It is CIRCLE
+Center coordinates are: X = 46 Y = 39, radius = 49, color = ORANGE, perimeter = 307.876
+
+58: It is CIRCLE
+Center coordinates are: X = 21 Y = 20, radius = 49, color = DARK_BLUE, perimeter = 307.876
+
+59: It is CIRCLE
+Center coordinates are: X = 79 Y = 31, radius = 54, color = ORANGE, perimeter = 339.292
+
+60: It is CIRCLE
+Center coordinates are: X = 14 Y = 95, radius = 61, color = PURPLE, perimeter = 383.274
+
+61: It is CIRCLE
+Center coordinates are: X = 88 Y = 24, radius = 63, color = RED, perimeter = 395.841
+
+62: It is CIRCLE
+Center coordinates are: X = 65 Y = 46, radius = 66, color = RED, perimeter = 414.69
+
+63: It is CIRCLE
+Center coordinates are: X = 7 Y = 47, radius = 70, color = RED, perimeter = 439.823
+
+64: It is CIRCLE
+Center coordinates are: X = 78 Y = 59, radius = 89, color = GREEN, perimeter = 559.203
+
+65: It is CIRCLE
+Center coordinates are: X = 50 Y = 57, radius = 92, color = GREEN, perimeter = 578.053
+
+66: It is CIRCLE
+Center coordinates are: X = 79 Y = 87, radius = 99, color = DARK_BLUE, perimeter = 622.035
+

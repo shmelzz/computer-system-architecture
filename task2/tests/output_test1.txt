@@ -1,0 +1,54 @@
+Filled container:
+Container contains 8 elements.
+1: It is RECTANGLE
+Angles' coordinates are: a.X = 3 a.Y = 4, b.X = 5, b.Y = 5, color = ORANGE, perimeter = 6
+
+2: It is TRIANGLE
+Angles' coordinates are: a.X = 1 a.Y = 1, b.X = 1, b.Y = 2 c.X = 3 c.Y = 4, color = YELLOW, perimeter = 7.43398
+
+3: It is RECTANGLE
+Angles' coordinates are: a.X = 30 a.Y = 40, b.X = 2, b.Y = 3, color = GREEN, perimeter = 130
+
+4: It is TRIANGLE
+Angles' coordinates are: a.X = 2 a.Y = 2, b.X = 1, b.Y = 9 c.X = 8 c.Y = 7, color = BLUE, perimeter = 22.1614
+
+5: It is RECTANGLE
+Angles' coordinates are: a.X = 13 a.Y = 14, b.X = 8, b.Y = 9, color = DARK_BLUE, perimeter = 20
+
+6: It is TRIANGLE
+Angles' coordinates are: a.X = 10 a.Y = 10, b.X = 10, b.Y = 5 c.X = 6 c.Y = 7, color = PURPLE, perimeter = 14.4721
+
+7: It is RECTANGLE
+Angles' coordinates are: a.X = 330 a.Y = 49, b.X = 8, b.Y = 9, color = RED, perimeter = 724
+
+8: It is TRIANGLE
+Angles' coordinates are: a.X = 3 a.Y = 4, b.X = 5, b.Y = 34 c.X = 6 c.Y = 7, color = YELLOW, perimeter = 61.3277
+
+
+
+Sorted container: 
+Container contains 8 elements.
+1: It is RECTANGLE
+Angles' coordinates are: a.X = 3 a.Y = 4, b.X = 5, b.Y = 5, color = ORANGE, perimeter = 6
+
+2: It is TRIANGLE
+Angles' coordinates are: a.X = 1 a.Y = 1, b.X = 1, b.Y = 2 c.X = 3 c.Y = 4, color = YELLOW, perimeter = 7.43398
+
+3: It is TRIANGLE
+Angles' coordinates are: a.X = 10 a.Y = 10, b.X = 10, b.Y = 5 c.X = 6 c.Y = 7, color = PURPLE, perimeter = 14.4721
+
+4: It is RECTANGLE
+Angles' coordinates are: a.X = 13 a.Y = 14, b.X = 8, b.Y = 9, color = DARK_BLUE, perimeter = 20
+
+5: It is TRIANGLE
+Angles' coordinates are: a.X = 2 a.Y = 2, b.X = 1, b.Y = 9 c.X = 8 c.Y = 7, color = BLUE, perimeter = 22.1614
+
+6: It is TRIANGLE
+Angles' coordinates are: a.X = 3 a.Y = 4, b.X = 5, b.Y = 34 c.X = 6 c.Y = 7, color = YELLOW, perimeter = 61.3277
+
+7: It is RECTANGLE
+Angles' coordinates are: a.X = 30 a.Y = 40, b.X = 2, b.Y = 3, color = GREEN, perimeter = 130
+
+8: It is RECTANGLE
+Angles' coordinates are: a.X = 330 a.Y = 49, b.X = 8, b.Y = 9, color = RED, perimeter = 724
+
