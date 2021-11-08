@@ -40,7 +40,6 @@ class Rectangle:
             y = self.a_y - self.b_y
         return float(2.0 * (abs(x) + abs(y)))
 
-    # переписать вывод (добавить периметр и колор)
     def output(self, stream):
         stream.write("It is RECTANGLE\n")
         stream.write(
