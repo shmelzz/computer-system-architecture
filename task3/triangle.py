@@ -52,7 +52,6 @@ class Triangle:
         ab, ac, bc = self.calculate_sides()
         return float(ab + ac + bc)
 
-    # переписать вывод (добавить периметр и колор)
     def output(self, stream):
         ab, ac, bc = self.calculate_sides()
         if ac >= (ab + bc) or ab >= (bc + ac) or bc >= (ac + ab):
