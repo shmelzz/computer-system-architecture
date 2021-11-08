@@ -1,0 +1,4 @@
+incorrect qualifier value!
+  Waited:
+    first line in input_file must be "file" or "random"
+'
