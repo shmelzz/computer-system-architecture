@@ -29,7 +29,6 @@ class Circle:
     def perimeter(self):
         return float(2.0 * math.pi * self.radius)
 
-    # переписать вывод (добавить периметр и колор)
     def output(self, stream):
         if self.radius <= 0:
             stream.write("It is CIRCLE\n")
